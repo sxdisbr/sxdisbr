@@ -9,7 +9,7 @@ Armed with degrees in Sociology and Political Science, and a Master's in Communi
 Before the codes and nodes, there were chords and notes. Bass guitar in hand, I was the frontman of Disbrainer, where I not only played the strings but also led the sing. Although the band's journey has ended, my passion for music plays on a loop.
 
 ## 🌍 Polyglot Programmer
-Fluent in Spanish, English, and Russian, I find joy in expressing ideas in languages—both human and computer. My coding symphony began in late 2022, with Python as my first love for its versatility. I've since dabbled in PostgreSQL, JavaScript (just the basics!), C++, HTML, CSS, and the rhythmic scripts of Bash, Zsh, and PowerShell.
+Fluent in Spanish, English, and Russian, I find joy in expressing ideas in languages—both human and computer. My coding symphony began in late 2022, with Python as my first love for its versatility. I've since dabbled in PostgreSQL, JavaScript (just the basics!), C++ (also the basics!), HTML, CSS, and the rhythmic scripts of Bash, Zsh, and PowerShell.
 
 ## 🔍 Tech Toolkit
 I wield Python like a maestro conducts an orchestra, with libraries like Pandas, Scikit Learn, Seaborn, Matplotlib, PyTorch, and NLTK as my instruments. Each project is a new composition, a chance to harmonize data and algorithms into solutions.
